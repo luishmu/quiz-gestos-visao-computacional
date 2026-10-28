@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1152pt" height="648pt" viewBox="0 0 1152 648" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-23T20:53:50.019144</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 648 
+L 1152 648 
+L 1152 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="patch_2">
+   <path d="M 36.864 628.56 
+L 1115.136 628.56 
+Q 1128.96 628.56 1128.96 620.784 
+L 1128.96 422.496 
+Q 1128.96 414.72 1115.136 414.72 
+L 36.864 414.72 
+Q 23.04 414.72 23.04 422.496 
+L 23.04 620.784 
+Q 23.04 628.56 36.864 628.56 
+z
+" style="fill: #fafafa; stroke: #d1d5db; stroke-width: 1.2; stroke-linejoin: miter"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_3">
+    <path d="M 33.12 303.215094 
+L 146.88 303.215094 
+Q 158.4 303.215094 158.4 291.086491 
+L 158.4 133.414642 
+Q 158.4 121.286038 146.88 121.286038 
+L 33.12 121.286038 
+Q 21.6 121.286038 21.6 133.414642 
+L 21.6 291.086491 
+Q 21.6 303.215094 33.12 303.215094 
+z
+" clip-path="url(#p3cffd66b7c)" style="fill: #f1f2f4; stroke: #8a919c; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 163.278105 212.250566 
+Q 171.000487 212.250566 176.934015 212.250566 
+" clip-path="url(#p3cffd66b7c)" style="fill: none; stroke: #6b7280; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 170.534015 209.050566 
+L 176.934015 212.250566 
+L 170.534015 215.450566 
+z
+" clip-path="url(#p3cffd66b7c)" style="fill: #6b7280; stroke: #6b7280; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 195.12 303.215094 
+L 308.88 303.215094 
+Q 320.4 303.215094 320.4 291.086491 
+L 320.4 133.414642 
+Q 320.4 121.286038 308.88 121.286038 
+L 195.12 121.286038 
+Q 183.6 121.286038 183.6 133.414642 
+L 183.6 291.086491 
+Q 183.6 303.215094 195.12 303.215094 
+z
+" clip-path="url(#p3cffd66b7c)" style="fill: #e3ecfb; stroke: #3b6fd8; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 325.278105 212.250566 
+Q 333.000487 212.250566 338.934015 212.250566 
+" clip-path="url(#p3cffd66b7c)" style="fill: none; stroke: #6b7280; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 332.534015 209.050566 
+L 338.934015 212.250566 
+L 332.534015 215.450566 
+z
+" clip-path="url(#p3cffd66b7c)" style="fill: #6b7280; stroke: #6b7280; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 357.12 303.215094 
+L 470.88 303.215094 
+Q 482.4 303.215094 482.4 291.086491 
+L 482.4 133.414642 
+Q 482.4 121.286038 470.88 121.286038 
+L 357.12 121.286038 
+Q 345.6 121.286038 345.6 133.414642 
+L 345.6 291.086491 
+Q 345.6 303.215094 357.12 303.215094 
+z
+" clip-path="url(#p3cffd66b7c)" style="fill: #f1f2f4; stroke: #8a919c; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 487.278105 212.250566 
+Q 495.000487 212.250566 500.934015 212.250566 
+" clip-path="url(#p3cffd66b7c)" style="fill: none; stroke: #6b7280; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 494.534015 209.050566 
+L 500.934015 212.250566 
+L 494.534015 215.450566 
+z
+" clip-path="url(#p3cffd66b7c)" style="fill: #6b7280; stroke: #6b7280; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 519.12 303.215094 
+L 632.88 303.215094 
+Q 644.4 303.215094 644.4 291.086491 
+L 644.4 133.414642 
+Q 644.4 121.286038 632.88 121.286038 
+L 519.12 121.286038 
+Q 507.6 121.286038 507.6 133.414642 
+L 507.6 291.086491 
+Q 507.6 303.215094 519.12 303.215094 
+z
+" clip-path="url(#p3cffd66b7c)" style="fill: #f1f2f4; stroke: #8a919c; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 649.278105 212.250566 
+Q 657.000487 212.250566 662.934015 212.250566 
+" clip-path="url(#p3cffd66b7c)" style="fill: none; stroke: #6b7280; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 656.534015 209.050566 
+L 662.934015 212.250566 
+L 656.534015 215.450566 
+z
+" clip-path="url(#p3cffd66b7c)" style="fill: #6b7280; stroke: #6b7280; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 681.12 303.215094 
+L 794.88 303.215094 
+Q 806.4 303.215094 806.4 291.086491 
+L 806.4 133.414642 
+Q 806.4 121.286038 794.88 121.286038 
+L 681.12 121.286038 
+Q 669.6 121.286038 669.6 133.414642 
+L 669.6 291.086491 
+Q 669.6 303.215094 681.12 303.215094 
+z
+" clip-path="url(#p3cffd66b7c)" style="fill: #fdebd3; stroke: #d9730d; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 811.278105 212.250566 
+Q 819.000487 212.250566 824.934015 212.250566 
+" clip-path="url(#p3cffd66b7c)" style="fill: none; stroke: #6b7280; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 818.534015 209.050566 
+L 824.934015 212.250566 
+L 818.534015 215.450566 
+z
+" clip-path="url(#p3cffd66b7c)" style="fill: #6b7280; stroke: #6b7280; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 843.12 303.215094 
+L 956.88 303.215094 
+Q 968.4 303.215094 968.4 291.086491 
+L 968.4 133.414642 
+Q 968.4 121.286038 956.88 121.286038 
+L 843.12 121.286038 
+Q 831.6 121.286038 831.6 133.414642 
+L 831.6 291.086491 
+Q 831.6 303.215094 843.12 303.215094 
+z
+" clip-path="url(#p3cffd66b7c)" style="fill: #f1f2f4; stroke: #8a919c; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 973.278105 212.250566 
+Q 981.000487 212.250566 986.934015 212.250566 
+" clip-path="url(#p3cffd66b7c)" style="fill: none; stroke: #6b7280; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 980.534015 209.050566 
+L 986.934015 212.250566 
+L 980.534015 215.450566 
+z
+" clip-path="url(#p3cffd66b7c)" style="fill: #6b7280; stroke: #6b7280; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 1005.12 303.215094 
+L 1118.88 303.215094 
+Q 1130.4 303.215094 1130.4 291.086491 
+L 1130.4 133.414642 
+Q 1130.4 121.286038 1118.88 121.286038 
+L 1005.12 121.286038 
+Q 993.6 121.286038 993.6 133.414642 
+L 993.6 291.086491 
+Q 993.6 303.215094 1005.12 303.215094 
+z
+" clip-path="url(#p3cffd66b7c)" style="fill: #f1f2f4; stroke: #8a919c; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 183.6 88.690415 
+L 183.6 79.593962 
+L 806.4 79.593962 
+L 806.4 88.690415 
+" clip-path="url(#p3cffd66b7c)" style="fill: none; stroke: #1f2937; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 21.6 320.649962 
+L 21.6 329.746415 
+L 806.4 329.746415 
+L 806.4 320.649962 
+" clip-path="url(#p3cffd66b7c)" style="fill: none; stroke: #6b7280; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 831.6 320.649962 
+L 831.6 329.746415 
+L 1130.4 329.746415 
+L 1130.4 320.649962 
+" clip-path="url(#p3cffd66b7c)" style="fill: none; stroke: #6b7280; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 19px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: middle; fill: #1f2937" x="576" y="31.333274" transform="rotate(-0 576 31.333274)">Quiz por gestos: do quadro da webcam à ação no quiz</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start; fill: #8a919c" x="31.68" y="140.817767" transform="rotate(-0 31.68 140.817767)">1</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: middle; fill: #1f2937" x="90" y="169.957755" transform="rotate(-0 90 169.957755)">Webcam</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 9.6px; font-family: 'Segoe UI', 'DejaVu Sans'; fill: #1f2937" transform="translate(51.618 239.0515)">quadro espelhado</text>
+    <text style="font-size: 9.6px; font-family: 'Segoe UI', 'DejaVu Sans'; fill: #1f2937" transform="translate(72.309 250.99165)">(cv2.flip)</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start; fill: #3b6fd8" x="193.68" y="140.817767" transform="rotate(-0 193.68 140.817767)">2</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'Segoe UI', 'DejaVu Sans'; fill: #1f2937" transform="translate(220.753906 163.199259)">MediaPipe</text>
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'Segoe UI', 'DejaVu Sans'; fill: #1f2937" transform="translate(199.40918 176.716251)">Hand Landmarker</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 9.6px; font-family: 'Segoe UI', 'DejaVu Sans'; fill: #1f2937" transform="translate(223.4505 239.12035)">21 pontos 3D</text>
+    <text style="font-size: 9.6px; font-family: 'Segoe UI', 'DejaVu Sans'; fill: #1f2937" transform="translate(208.842 250.9228)">da mão = 63 valores</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start; fill: #8a919c" x="355.68" y="140.817767" transform="rotate(-0 355.68 140.817767)">3</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: middle; fill: #1f2937" x="414" y="169.957755" transform="rotate(-0 414 169.957755)">Normalização</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 9.6px; font-family: 'Segoe UI', 'DejaVu Sans'; fill: #1f2937" transform="translate(378.50475 233.193625)">pulso na origem,</text>
+    <text style="font-size: 9.6px; font-family: 'Segoe UI', 'DejaVu Sans'; fill: #1f2937" transform="translate(362.67825 245.047075)">mão esquerda → direita,</text>
+    <text style="font-size: 9.6px; font-family: 'Segoe UI', 'DejaVu Sans'; fill: #1f2937" transform="translate(380.2335 256.849525)">escala pela mão</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start; fill: #8a919c" x="517.68" y="140.817767" transform="rotate(-0 517.68 140.817767)">4</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'Segoe UI', 'DejaVu Sans'; fill: #1f2937" transform="translate(551.195312 163.199259)">Features</text>
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'Segoe UI', 'DejaVu Sans'; fill: #1f2937" transform="translate(543.8125 176.716251)">invariantes</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 9.6px; font-family: 'Segoe UI', 'DejaVu Sans'; fill: #1f2937" transform="translate(532.50075 233.247625)">34 medidas: ângulos</text>
+    <text style="font-size: 9.6px; font-family: 'Segoe UI', 'DejaVu Sans'; fill: #1f2937" transform="translate(532.70925 245.101075)">de dobra, distâncias,</text>
+    <text style="font-size: 9.6px; font-family: 'Segoe UI', 'DejaVu Sans'; fill: #1f2937" transform="translate(535.9125 256.903525)">direção do polegar</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start; fill: #d9730d" x="679.68" y="140.817767" transform="rotate(-0 679.68 140.817767)">5</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'Segoe UI', 'DejaVu Sans'; fill: #1f2937" transform="translate(724.984375 163.199259)">MLP</text>
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'Segoe UI', 'DejaVu Sans'; fill: #1f2937" transform="translate(710.164062 176.716251)">(64 → 32)</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 9.6px; font-family: 'Segoe UI', 'DejaVu Sans'; fill: #1f2937" transform="translate(694.14225 239.14585)">7 gestos + confiança</text>
+    <text style="font-size: 9.6px; font-family: 'Segoe UI', 'DejaVu Sans'; fill: #1f2937" transform="translate(702.12 250.9993)">(aceita se ≥ 0,70)</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start; fill: #8a919c" x="841.68" y="140.817767" transform="rotate(-0 841.68 140.817767)">6</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: middle; fill: #1f2937" x="900" y="169.957755" transform="rotate(-0 900 169.957755)">Estabilizador</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 9.6px; font-family: 'Segoe UI', 'DejaVu Sans'; fill: #1f2937" transform="translate(868.2795 233.168125)">5 de 7 quadros</text>
+    <text style="font-size: 9.6px; font-family: 'Segoe UI', 'DejaVu Sans'; fill: #1f2937" transform="translate(859.30125 244.970575)">concordam e gesto</text>
+    <text style="font-size: 9.6px; font-family: 'Segoe UI', 'DejaVu Sans'; fill: #1f2937" transform="translate(860.65875 256.824025)">segurado por 0,6 s</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start; fill: #8a919c" x="1003.68" y="140.817767" transform="rotate(-0 1003.68 140.817767)">7</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: middle; fill: #1f2937" x="1062" y="169.957755" transform="rotate(-0 1062 169.957755)">Quiz</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 9.6px; font-family: 'Segoe UI', 'DejaVu Sans'; fill: #1f2937" transform="translate(1028.87925 227.198238)">1–4 dedos: A–D</text>
+    <text style="font-size: 9.6px; font-family: 'Segoe UI', 'DejaVu Sans'; fill: #1f2937" transform="translate(1034.2095 239.000688)">palma: revela</text>
+    <text style="font-size: 9.6px; font-family: 'Segoe UI', 'DejaVu Sans'; fill: #1f2937" transform="translate(1029.5175 250.991463)">joinha: próxima</text>
+    <text style="font-size: 9.6px; font-family: 'Segoe UI', 'DejaVu Sans'; fill: #1f2937" transform="translate(1019.09775 262.844913)">deslike: rever depois</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: middle; fill: #1f2937" x="495" y="67.004583" transform="rotate(-0 495 67.004583)">Transfer learning por extração de características</text>
+   </g>
+   <g id="text_24">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: middle; fill: #3b6fd8" x="252" y="109.157434" transform="rotate(-0 252 109.157434)">pré-treinado pelo Google · congelado</text>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: middle; fill: #d9730d" x="738" y="109.157434" transform="rotate(-0 738 109.157434)">único componente treinado</text>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: middle; fill: #6b7280" x="414" y="347.895951" transform="rotate(-0 414 347.895951)">a cada quadro da webcam</text>
+   </g>
+   <g id="text_27">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: middle; fill: #6b7280" x="981" y="347.895951" transform="rotate(-0 981 347.895951)">ao longo do tempo: quadros → eventos</text>
+   </g>
+   <g id="legend_1">
+    <g id="patch_16">
+     <path d="M 261.674297 385.074553 
+L 278.474297 385.074553 
+L 278.474297 374.994553 
+L 261.674297 374.994553 
+z
+" style="fill: #e3ecfb; stroke: #3b6fd8; stroke-width: 2; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_28">
+     <text style="font-size: 10.5px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start" x="286.874297" y="383.604553" transform="rotate(-0 286.874297 383.604553)">Modelo pré-treinado (pesos congelados)</text>
+    </g>
+    <g id="patch_17">
+     <path d="M 502.152187 385.074553 
+L 518.952187 385.074553 
+L 518.952187 374.994553 
+L 502.152187 374.994553 
+z
+" style="fill: #fdebd3; stroke: #d9730d; stroke-width: 2; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_29">
+     <text style="font-size: 10.5px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start" x="527.352188" y="383.604553" transform="rotate(-0 527.352188 383.604553)">Treinado com os dados do projeto</text>
+    </g>
+    <g id="patch_18">
+     <path d="M 712.531172 385.074553 
+L 729.331172 385.074553 
+L 729.331172 374.994553 
+L 712.531172 374.994553 
+z
+" style="fill: #f1f2f4; stroke: #8a919c; stroke-width: 2; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_30">
+     <text style="font-size: 10.5px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start" x="737.731172" y="383.604553" transform="rotate(-0 737.731172 383.604553)">Processamento sem aprendizado</text>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_19">
+    <path d="M 236.16 592.92 
+L 720 592.92 
+L 720 479.52 
+L 236.16 479.52 
+L 236.16 592.92 
+z
+" style="fill: none"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_4">
+      <path d="M 261.625263 592.92 
+L 261.625263 479.52 
+" clip-path="url(#p61e05a1361)" style="fill: none; stroke: #e5e7eb; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_5"/>
+     <g id="text_31">
+      <text style="font-size: 9.5px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: middle; fill: #6b7280" x="261.625263" y="603.452969" transform="rotate(-0 261.625263 603.452969)">80%</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_6">
+      <path d="M 388.951579 592.92 
+L 388.951579 479.52 
+" clip-path="url(#p61e05a1361)" style="fill: none; stroke: #e5e7eb; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_7"/>
+     <g id="text_32">
+      <text style="font-size: 9.5px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: middle; fill: #6b7280" x="388.951579" y="603.452969" transform="rotate(-0 388.951579 603.452969)">85%</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_8">
+      <path d="M 516.277895 592.92 
+L 516.277895 479.52 
+" clip-path="url(#p61e05a1361)" style="fill: none; stroke: #e5e7eb; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_9"/>
+     <g id="text_33">
+      <text style="font-size: 9.5px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: middle; fill: #6b7280" x="516.277895" y="603.452969" transform="rotate(-0 516.277895 603.452969)">90%</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_10">
+      <path d="M 643.604211 592.92 
+L 643.604211 479.52 
+" clip-path="url(#p61e05a1361)" style="fill: none; stroke: #e5e7eb; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_11"/>
+     <g id="text_34">
+      <text style="font-size: 9.5px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: middle; fill: #6b7280" x="643.604211" y="603.452969" transform="rotate(-0 643.604211 603.452969)">95%</text>
+     </g>
+    </g>
+    <g id="text_35">
+     <text style="font-size: 9.5px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: middle; fill: #6b7280" x="478.08" y="618.808984" transform="rotate(-0 478.08 618.808984)">acurácia  ·  ● média   ○ cada pessoa   — média ± desvio</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2"/>
+   <g id="line2d_12">
+    <path d="M 344.312092 571.6575 
+L 581.289592 571.6575 
+" clip-path="url(#p61e05a1361)" style="fill: none; stroke: #6b7280; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_13">
+    <path d="M 496.118333 536.22 
+L 598.827351 536.22 
+" clip-path="url(#p61e05a1361)" style="fill: none; stroke: #6b7280; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_14">
+    <path d="M 531.464138 500.7825 
+L 644.970389 500.7825 
+" clip-path="url(#p61e05a1361)" style="fill: none; stroke: #d9730d; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="m52d8e7cac3" d="M 0 2.915476 
+C 0.773193 2.915476 1.514823 2.608283 2.061553 2.061553 
+C 2.608283 1.514823 2.915476 0.773193 2.915476 0 
+C 2.915476 -0.773193 2.608283 -1.514823 2.061553 -2.061553 
+C 1.514823 -2.608283 0.773193 -2.915476 0 -2.915476 
+C -0.773193 -2.915476 -1.514823 -2.608283 -2.061553 -2.061553 
+C -2.608283 -1.514823 -2.915476 -0.773193 -2.915476 0 
+C -2.915476 0.773193 -2.608283 1.514823 -2.061553 2.061553 
+C -1.514823 2.608283 -0.773193 2.915476 0 2.915476 
+z
+" style="stroke: #6b7280; stroke-width: 1.4"/>
+    </defs>
+    <g clip-path="url(#p61e05a1361)">
+     <use xlink:href="#m52d8e7cac3" x="607.952842" y="571.6575" style="fill: #ffffff; stroke: #6b7280; stroke-width: 1.4"/>
+     <use xlink:href="#m52d8e7cac3" x="434.789053" y="571.6575" style="fill: #ffffff; stroke: #6b7280; stroke-width: 1.4"/>
+     <use xlink:href="#m52d8e7cac3" x="521.370947" y="571.6575" style="fill: #ffffff; stroke: #6b7280; stroke-width: 1.4"/>
+     <use xlink:href="#m52d8e7cac3" x="287.090526" y="571.6575" style="fill: #ffffff; stroke: #6b7280; stroke-width: 1.4"/>
+    </g>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start; fill: #1f2937" x="732.732632" y="574.464219" transform="rotate(-0 732.732632 574.464219)">87,9% ± 4,7%</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: end; fill: #1f2937" x="223.427368" y="574.435" transform="rotate(-0 223.427368 574.435)">Regras (baseline)</text>
+   </g>
+   <g id="PathCollection_2">
+    <g clip-path="url(#p61e05a1361)">
+     <use xlink:href="#m52d8e7cac3" x="590.127158" y="536.22" style="fill: #ffffff; stroke: #6b7280; stroke-width: 1.4"/>
+     <use xlink:href="#m52d8e7cac3" x="595.220211" y="536.22" style="fill: #ffffff; stroke: #6b7280; stroke-width: 1.4"/>
+     <use xlink:href="#m52d8e7cac3" x="536.650105" y="536.22" style="fill: #ffffff; stroke: #6b7280; stroke-width: 1.4"/>
+     <use xlink:href="#m52d8e7cac3" x="467.893895" y="536.22" style="fill: #ffffff; stroke: #6b7280; stroke-width: 1.4"/>
+    </g>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start; fill: #1f2937" x="732.732632" y="539.026719" transform="rotate(-0 732.732632 539.026719)">91,2% ± 2,0%</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: end; fill: #1f2937" x="223.427368" y="539.026719" transform="rotate(-0 223.427368 539.026719)">MLP coordenadas</text>
+   </g>
+   <g id="PathCollection_3">
+    <defs>
+     <path id="m93822882b8" d="M 0 2.915476 
+C 0.773193 2.915476 1.514823 2.608283 2.061553 2.061553 
+C 2.608283 1.514823 2.915476 0.773193 2.915476 0 
+C 2.915476 -0.773193 2.608283 -1.514823 2.061553 -2.061553 
+C 1.514823 -2.608283 0.773193 -2.915476 0 -2.915476 
+C -0.773193 -2.915476 -1.514823 -2.608283 -2.061553 -2.061553 
+C -2.608283 -1.514823 -2.915476 -0.773193 -2.915476 0 
+C -2.915476 0.773193 -2.608283 1.514823 -2.061553 2.061553 
+C -1.514823 2.608283 -0.773193 2.915476 0 2.915476 
+z
+" style="stroke: #d9730d; stroke-width: 1.4"/>
+    </defs>
+    <g clip-path="url(#p61e05a1361)">
+     <use xlink:href="#m93822882b8" x="641.057684" y="500.7825" style="fill: #ffffff; stroke: #d9730d; stroke-width: 1.4"/>
+     <use xlink:href="#m93822882b8" x="564.661895" y="500.7825" style="fill: #ffffff; stroke: #d9730d; stroke-width: 1.4"/>
+     <use xlink:href="#m93822882b8" x="641.057684" y="500.7825" style="fill: #ffffff; stroke: #d9730d; stroke-width: 1.4"/>
+     <use xlink:href="#m93822882b8" x="506.091789" y="500.7825" style="fill: #ffffff; stroke: #d9730d; stroke-width: 1.4"/>
+    </g>
+   </g>
+   <g id="text_40">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start; fill: #1f2937" x="732.732632" y="503.589219" transform="rotate(-0 732.732632 503.589219)">92,8% ± 2,2%</text>
+   </g>
+   <g id="text_41">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: end; fill: #1f2937" x="223.427368" y="503.589219" transform="rotate(-0 223.427368 503.589219)">MLP invariantes (usado no app)</text>
+   </g>
+   <g id="PathCollection_4">
+    <defs>
+     <path id="m5b68bcb955" d="M 0 5.477226 
+C 1.452577 5.477226 2.845856 4.900111 3.872983 3.872983 
+C 4.900111 2.845856 5.477226 1.452577 5.477226 0 
+C 5.477226 -1.452577 4.900111 -2.845856 3.872983 -3.872983 
+C 2.845856 -4.900111 1.452577 -5.477226 0 -5.477226 
+C -1.452577 -5.477226 -2.845856 -4.900111 -3.872983 -3.872983 
+C -4.900111 -2.845856 -5.477226 -1.452577 -5.477226 0 
+C -5.477226 1.452577 -4.900111 2.845856 -3.872983 3.872983 
+C -2.845856 4.900111 -1.452577 5.477226 0 5.477226 
+z
+" style="stroke: #ffffff; stroke-width: 2"/>
+    </defs>
+    <g clip-path="url(#p61e05a1361)">
+     <use xlink:href="#m5b68bcb955" x="462.800842" y="571.6575" style="fill: #6b7280; stroke: #ffffff; stroke-width: 2"/>
+    </g>
+   </g>
+   <g id="PathCollection_5">
+    <g clip-path="url(#p61e05a1361)">
+     <use xlink:href="#m5b68bcb955" x="547.472842" y="536.22" style="fill: #6b7280; stroke: #ffffff; stroke-width: 2"/>
+    </g>
+   </g>
+   <g id="PathCollection_6">
+    <defs>
+     <path id="m9c69fff082" d="M 0 5.477226 
+C 1.452577 5.477226 2.845856 4.900111 3.872983 3.872983 
+C 4.900111 2.845856 5.477226 1.452577 5.477226 0 
+C 5.477226 -1.452577 4.900111 -2.845856 3.872983 -3.872983 
+C 2.845856 -4.900111 1.452577 -5.477226 0 -5.477226 
+C -1.452577 -5.477226 -2.845856 -4.900111 -3.872983 -3.872983 
+C -4.900111 -2.845856 -5.477226 -1.452577 -5.477226 0 
+C -5.477226 1.452577 -4.900111 2.845856 -3.872983 3.872983 
+C -2.845856 4.900111 -1.452577 5.477226 0 5.477226 
+z
+" style="stroke: #ffffff; stroke-width: 2"/>
+    </defs>
+    <g clip-path="url(#p61e05a1361)">
+     <use xlink:href="#m9c69fff082" x="588.217263" y="500.7825" style="fill: #d9730d; stroke: #ffffff; stroke-width: 2"/>
+    </g>
+   </g>
+  </g>
+  <g id="text_42">
+   <text style="font-weight: 700; font-size: 14px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start; fill: #1f2937" x="46.08" y="444.688437" transform="rotate(-0 46.08 444.688437)">Resultados: validação cruzada deixando uma pessoa de fora</text>
+  </g>
+  <g id="text_43">
+   <text style="font-size: 10px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start; fill: #6b7280" x="46.08" y="463.11275" transform="rotate(-0 46.08 463.11275)">4 participantes · 8.228 quadros · cada pessoa é testada uma vez com o modelo treinado nas outras três</text>
+  </g>
+  <g id="text_44">
+   <text style="font-size: 13px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start; fill: #d9730d" x="846.72" y="498.864063" transform="rotate(-0 846.72 498.864063)">•</text>
+  </g>
+  <g id="text_45">
+   <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; fill: #1f2937" transform="translate(861.696 497.383438)">MLP invariantes tem a melhor média e vence</text>
+   <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; fill: #1f2937" transform="translate(861.696 510.499906)">em 3 das 4 pessoas testadas.</text>
+  </g>
+  <g id="text_46">
+   <text style="font-size: 13px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start; fill: #d9730d" x="846.72" y="539.040062" transform="rotate(-0 846.72 539.040062)">•</text>
+  </g>
+  <g id="text_47">
+   <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; fill: #1f2937" transform="translate(861.696 537.676312)">A vantagem sobre coordenadas (~1,6 pp) fica</text>
+   <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; fill: #1f2937" transform="translate(861.696 550.851219)">dentro da variação entre pessoas.</text>
+  </g>
+  <g id="text_48">
+   <text style="font-size: 13px; font-family: 'Segoe UI', 'DejaVu Sans'; text-anchor: start; fill: #d9730d" x="846.72" y="579.216063" transform="rotate(-0 846.72 579.216063)">•</text>
+  </g>
+  <g id="text_49">
+   <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; fill: #1f2937" transform="translate(861.696 577.895281)">As regras são as mais instáveis: de 81% a 94%</text>
+   <text style="font-size: 11px; font-family: 'Segoe UI', 'DejaVu Sans'; fill: #1f2937" transform="translate(861.696 591.222125)">conforme quem faz o gesto.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p3cffd66b7c">
+   <rect x="0" y="0" width="1152" height="401.76"/>
+  </clipPath>
+  <clipPath id="p61e05a1361">
+   <rect x="236.16" y="479.52" width="483.84" height="113.4"/>
+  </clipPath>
+ </defs>
+</svg>

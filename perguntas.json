@@ -1,0 +1,74 @@
+[
+  {
+    "pergunta": "Qual é a capital da Austrália?",
+    "alternativas": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "correta": "C",
+    "explicacao": "Canberra foi planejada para ser a capital, como meio-termo entre Sydney e Melbourne."
+  },
+  {
+    "pergunta": "Qual planeta fica mais perto do Sol?",
+    "alternativas": ["Mercúrio", "Vênus", "Terra", "Marte"],
+    "correta": "A",
+    "explicacao": "Mercúrio é o primeiro planeta do Sistema Solar e também o menor."
+  },
+  {
+    "pergunta": "Quantos lados tem um hexágono?",
+    "alternativas": ["5", "6", "7", "8"],
+    "correta": "B",
+    "explicacao": "Hexa = seis. Os favos de mel das abelhas são hexágonos."
+  },
+  {
+    "pergunta": "Quem pintou a Mona Lisa?",
+    "alternativas": ["Michelangelo", "Rafael", "Van Gogh", "Leonardo da Vinci"],
+    "correta": "D",
+    "explicacao": "Leonardo da Vinci pintou a obra no início do século XVI; hoje ela fica no Museu do Louvre."
+  },
+  {
+    "pergunta": "Qual é o maior oceano do mundo?",
+    "alternativas": ["Atlântico", "Pacífico", "Índico", "Ártico"],
+    "correta": "B",
+    "explicacao": "O Pacífico cobre cerca de um terço da superfície da Terra."
+  },
+  {
+    "pergunta": "Qual é o símbolo químico do ouro?",
+    "alternativas": ["Ag", "Fe", "Au", "Pb"],
+    "correta": "C",
+    "explicacao": "Au vem do latim aurum. Ag é a prata, Fe o ferro e Pb o chumbo."
+  },
+  {
+    "pergunta": "Em que ano o Brasil declarou a independência?",
+    "alternativas": ["1500", "1808", "1889", "1822"],
+    "correta": "D",
+    "explicacao": "Em 7 de setembro de 1822. 1889 é o ano da Proclamação da República."
+  },
+  {
+    "pergunta": "Qual é o maior animal do mundo?",
+    "alternativas": ["Baleia-azul", "Elefante-africano", "Girafa", "Tubarão-baleia"],
+    "correta": "A",
+    "explicacao": "A baleia-azul pode passar de 30 metros e é o maior animal que já existiu."
+  },
+  {
+    "pergunta": "Quantos jogadores de cada time ficam em campo numa partida de futebol?",
+    "alternativas": ["9", "10", "11", "12"],
+    "correta": "C",
+    "explicacao": "São 11 por time, contando o goleiro."
+  },
+  {
+    "pergunta": "Que gás as plantas absorvem do ar para fazer fotossíntese?",
+    "alternativas": ["Oxigênio", "Nitrogênio", "Hélio", "Gás carbônico"],
+    "correta": "D",
+    "explicacao": "Elas absorvem gás carbônico (CO2) e liberam oxigênio."
+  },
+  {
+    "pergunta": "Quem escreveu Dom Casmurro?",
+    "alternativas": ["Machado de Assis", "José de Alencar", "Jorge Amado", "Graciliano Ramos"],
+    "correta": "A",
+    "explicacao": "Publicado em 1899, é o livro da famosa dúvida: Capitu traiu ou não traiu Bentinho?"
+  },
+  {
+    "pergunta": "Quanto é 7 × 8?",
+    "alternativas": ["54", "56", "58", "64"],
+    "correta": "B",
+    "explicacao": "7 × 8 = 56. Truque: 5, 6, 7, 8 → 56 = 7 × 8."
+  }
+]

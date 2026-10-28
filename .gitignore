@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+dados/gestos_incompleto_backup.csv
+CLAUDE.md
+.claude/
+
+# avaliações individuais (avaliar_pessoa.py) ficam só locais
+matriz_*.png
+!matriz_confusao.png

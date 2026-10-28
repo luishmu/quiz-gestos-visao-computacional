@@ -1,0 +1,70 @@
+[
+  {
+    "pergunta": "Quantos pontos (landmarks) o MediaPipe Hand Landmarker devolve para cada mão?",
+    "alternativas": ["5", "21", "33", "68"],
+    "correta": "B",
+    "explicacao": "São 21 pontos: o pulso e 4 por dedo. 33 é o modelo de pose do corpo e 68 é o clássico de pontos do rosto."
+  },
+  {
+    "pergunta": "Em uma convolução 2D, o que o kernel (filtro) faz?",
+    "alternativas": [
+      "Ordena os pixels pela intensidade",
+      "Desliza pela imagem calculando somas ponderadas locais",
+      "Converte a imagem para tons de cinza",
+      "Sorteia pixels para descartar"
+    ],
+    "correta": "B",
+    "explicacao": "Cada posição de saída é a soma dos pixels vizinhos multiplicados pelos pesos do kernel."
+  },
+  {
+    "pergunta": "Neste projeto, por que o teste separa os dados por pessoa e não quadro a quadro?",
+    "alternativas": [
+      "Para o treino ficar mais rápido",
+      "Porque o MediaPipe exige",
+      "Quadros vizinhos são quase iguais e vazam para o teste",
+      "Para usar menos memória"
+    ],
+    "correta": "C",
+    "explicacao": "Dividindo quadro a quadro, o teste tem quase cópias do treino e a acurácia sai inflada."
+  },
+  {
+    "pergunta": "Qual camada reduz a resolução espacial dos mapas de ativação em uma CNN?",
+    "alternativas": ["ReLU", "Dropout", "Batch normalization", "Max pooling"],
+    "correta": "D",
+    "explicacao": "O max pooling pega o maior valor de cada janela (ex.: 2x2), reduzindo largura e altura."
+  },
+  {
+    "pergunta": "O filtro de Sobel é usado principalmente para:",
+    "alternativas": [
+      "Detectar bordas",
+      "Remover ruído sal e pimenta",
+      "Aumentar o contraste",
+      "Segmentar por cor"
+    ],
+    "correta": "A",
+    "explicacao": "Ele estima o gradiente horizontal e vertical da intensidade, que é alto nas bordas."
+  },
+  {
+    "pergunta": "Qual a ordem padrão dos canais de cor de uma imagem lida com cv2.imread?",
+    "alternativas": ["RGB", "BGR", "HSV", "Lab"],
+    "correta": "B",
+    "explicacao": "O OpenCV usa BGR. Por isso o código converte com cv2.cvtColor antes de passar ao MediaPipe."
+  },
+  {
+    "pergunta": "Em detecção de objetos, qual métrica mede a sobreposição entre a caixa prevista e a real?",
+    "alternativas": ["F1-score", "IoU", "MSE", "Acurácia"],
+    "correta": "B",
+    "explicacao": "IoU = área da interseção dividida pela área da união das duas caixas."
+  },
+  {
+    "pergunta": "Para que serve o data augmentation?",
+    "alternativas": [
+      "Aumentar a resolução das imagens",
+      "Acelerar a inferência",
+      "Rotular dados automaticamente",
+      "Variar os dados de treino e reduzir o overfitting"
+    ],
+    "correta": "D",
+    "explicacao": "Rotações, recortes e mudanças de brilho criam exemplos novos a partir dos existentes."
+  }
+]

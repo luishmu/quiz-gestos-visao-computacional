@@ -1,0 +1,12 @@
+# Versões exatas testadas com Python 3.12 (Windows 11).
+# Use Python 3.12: é a versão recomendada no README.
+# scikit-learn precisa ser exatamente esta: o modelo salvo
+# (modelos/mlp_gestos.joblib) é um pickle e pode não carregar em outra versão.
+mediapipe==1.1.1
+opencv-python==5.0.0.93
+numpy==2.4.4
+pandas==3.0.2
+scikit-learn==1.9.0
+matplotlib==3.10.8
+joblib==1.5.3
+pillow==12.2.0
